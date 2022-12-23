@@ -32,7 +32,7 @@ pip3 install imutils
  
  <img width="1679" alt="Screenshot 2022-12-23 at 11 17 06 PM" src="https://user-images.githubusercontent.com/112048497/209382158-2f47895e-9807-4621-8a42-895e8c10056f.png">
  
- The images from which the above image is created are in the Photos folder of the Repository.
+ Note:- The images from which the above image is created are in the Photos folder of the Repository.
 
 
 
